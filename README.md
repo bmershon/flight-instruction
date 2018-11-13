@@ -1,5 +1,3 @@
-# Brooks Mershon
-
 Send email inquiries to mershon.aero@gmail.com
 
 ## Scheduling [Google Calendar](https://calendar.google.com/calendar/b/3?cid=bWVyc2hvbi5hZXJvQGdtYWlsLmNvbQ)
