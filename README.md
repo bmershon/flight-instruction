@@ -1,5 +1,1 @@
-# Flight Instruction
-
-Brooks Mershon's Flight instruction resources, scheduling, and more!
-
-## Gliders
+[See the Wiki!](https://github.com/bmershon/flight-instruction/wiki)
